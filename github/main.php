@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>User Registration Form</h1>
-    
+    <p>github</p>
     <!-- HTML Form -->
     <form action="index.php" method="post">
         <label for="firstname">First Name:</label>
